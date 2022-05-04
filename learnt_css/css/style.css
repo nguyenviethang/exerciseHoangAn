@@ -1,3 +1,9 @@
 #form {
     background-color: blue;
 }
+hr  {
+    color: red;
+}
+form table tr td label {
+    font-family: italic;
+}
