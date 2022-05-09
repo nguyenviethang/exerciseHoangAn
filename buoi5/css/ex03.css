@@ -1,0 +1,17 @@
+table {
+    table-layout: fixed;
+}
+
+table thead td {
+    padding-bottom: 2rem;
+}
+
+table td {
+    overflow: hidden;
+    vertical-align: top;
+}
+
+table td p {
+    padding-right: 20px;
+
+}
