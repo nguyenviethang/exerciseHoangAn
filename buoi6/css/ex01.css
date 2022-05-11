@@ -1,0 +1,31 @@
+body {
+    background-color: #df8787;
+    background-image: url('../img/hi1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+div {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    text-align: center;
+    width: 45%;
+}
+
+#title {
+    color: red;
+}
+
+.btn {
+    display: inline-block;
+    background: transparent;
+    padding: 0.4rem 0.8rem;
+    font-size: 1rem;
+    color: #FFF;
+    border: 1px solid #EEE;
+    margin-top: 10px;
+    text-transform: capitalize;
+
+}
